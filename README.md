@@ -72,7 +72,7 @@ visualizations of the data.
               refugees       0.01      0.75      0.03         4
                  death       0.12      0.88      0.21        33
              other_aid       0.01      0.60      0.03        15
-infrastructure_related       0.00      0.00      0.00         1
+    infrastructure_related   0.00      0.00      0.00         1
              transport       0.09      0.71      0.16        28
              buildings       0.08      0.91      0.15        22
            electricity       0.03      0.75      0.06         4
@@ -80,16 +80,16 @@ infrastructure_related       0.00      0.00      0.00         1
              hospitals       0.00      0.00      0.00         0
                  shops       0.00      0.00      0.00         0
            aid_centers       0.00      0.00      0.00         0
-  other_infrastructure       0.00      0.00      0.00         1
+    other_infrastructure     0.00      0.00      0.00         1
        weather_related       0.64      0.84      0.72      1070
                 floods       0.45      0.89      0.60       198
+       weather_related       0.64      0.84      0.72      1070
                  storm       0.43      0.76      0.55       262
                   fire       0.02      0.50      0.04         2
             earthquake       0.72      0.89      0.80       413
                   cold       0.05      0.71      0.10         7
          other_weather       0.01      0.50      0.03         8
          direct_report       0.37      0.86      0.52       449
-
              micro avg       0.51      0.82      0.63     10168
              macro avg       0.18      0.57      0.23     10168
           weighted avg       0.74      0.82      0.76     10168
